@@ -30,7 +30,7 @@
 พิมค์คำสั่ง help consoletest
 ## ![image](https://github.com/user-attachments/assets/9faad475-0aef-47f7-8ad7-284534a6cfe6)
 4.คัดลอก และ เพิ่มเนื้อหาตามนี้
-## ![image](https://github.com/user-attachments/assets/5191829d-0c65-4e44-af8b-ff1fc83f19a1)
+## ![image](https://github.com/user-attachments/assets/da113bd8-2dd7-42d0-ac0f-b1a66cf52097)
 และ เพิ่ม ESP_ERROR_CHECK(esp_console_cmd_register(&led));
 ### ![image](https://github.com/user-attachments/assets/c8a7e39f-4fcd-4f81-8706-4aed08efb83f)
 และ คัดลอก ฟังก์ชั่นด้านบนมาแก้ไข ดังนี้
