@@ -59,6 +59,8 @@ build และ flash และทดสอบพิมพ์ led 1 on และ
 ## ![image](https://github.com/user-attachments/assets/c980d5ad-372c-49aa-98d3-ba91c804fcdd)
 *** ต้องลบ gpio_set_direction(GPIO_NUM_16, GPIO_MODE_OUTPUT); ออก
 ## ![image](https://github.com/user-attachments/assets/9e0e87fa-1945-49de-88ad-48f2ed9c2232)
+build และ flash และทดสอบพิมพ์ led 17 enable และ led 17 on
+## ![image](https://github.com/user-attachments/assets/2a9c9b8e-1ed7-4b48-9dc0-c0f942d79570)
 
 
 
