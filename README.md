@@ -45,8 +45,10 @@ build และ flash และทดสอบพิมพ์ led 1 on
 ## ![image](https://github.com/user-attachments/assets/077e6979-2fa8-4f08-be54-3ce96d31ebb0)
 build และ flash และทดสอบพิมพ์ led 1 on และ led y off แล้วสังเกตุผลลัพธ์
 ## ![image](https://github.com/user-attachments/assets/30fd51a1-e450-4421-b8d9-c282547d17ab)
-
-
+เพิ่มคำสั่งดังนี้
+## ![image](https://github.com/user-attachments/assets/17973c82-5537-4d23-986c-802ec6f5feec)
+build และ flash และทดสอบพิมพ์ led 1 on และ led 1 off
+## ![image](https://github.com/user-attachments/assets/f3de87ce-1a0d-4d7d-ad21-8168434a09e4)
 
 
 
