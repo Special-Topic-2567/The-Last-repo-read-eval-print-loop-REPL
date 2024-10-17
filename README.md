@@ -55,6 +55,10 @@ build และ flash และทดสอบพิมพ์ led 1 on และ
 ## ![image](https://github.com/user-attachments/assets/3355cc92-53b0-42d2-af8c-129c9440437b)
 ทดสอบ พิมพ์คำสั่ง led 16 on ผลลัพธ์ledจะติด
 ## ![image](https://github.com/user-attachments/assets/fc5cbe67-46a6-4026-853e-d4517b4b1828)
+6.เพิ่มส่วนของenable
+## ![image](https://github.com/user-attachments/assets/c980d5ad-372c-49aa-98d3-ba91c804fcdd)
+*** ต้องลบ gpio_set_direction(GPIO_NUM_16, GPIO_MODE_OUTPUT); ออก
+## ![image](https://github.com/user-attachments/assets/9e0e87fa-1945-49de-88ad-48f2ed9c2232)
 
 
 
