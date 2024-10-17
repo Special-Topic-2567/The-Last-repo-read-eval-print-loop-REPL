@@ -12,6 +12,10 @@
 
 ![image](https://github.com/user-attachments/assets/7c29cbd2-c7ec-4a8d-9129-355cf9fa44bc)
 
+### การเชื่อมต่อ ESP32 กับ USB
+
+![image](https://github.com/user-attachments/assets/83172a77-e52a-4372-9e11-bc88161cf9f0)
+
 
 2.เปลี่ยนขา 
 ## ![image](https://github.com/user-attachments/assets/f693048a-39d2-41e3-a4de-59392f29ebcb)
