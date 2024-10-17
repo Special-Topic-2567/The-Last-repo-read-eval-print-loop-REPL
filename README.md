@@ -14,7 +14,8 @@
 
 ### การเชื่อมต่อ ESP32 กับ USB
 
-![image](https://github.com/user-attachments/assets/83172a77-e52a-4372-9e11-bc88161cf9f0)
+![image](https://github.com/user-attachments/assets/7f11041f-d8dc-493f-b609-fb6c0fa71b7a)
+
 
 
 2.เปลี่ยนขา 
