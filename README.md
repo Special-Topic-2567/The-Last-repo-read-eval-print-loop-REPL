@@ -17,3 +17,12 @@
 ## ![image](https://github.com/user-attachments/assets/f693048a-39d2-41e3-a4de-59392f29ebcb)
 
 3.ทำการbuildแล้วก็flashลงบอร์ด
+## ![image](https://github.com/user-attachments/assets/8a679d30-29cf-46bb-bebb-e1f3d0a950f9)
+พิมค์คำว่า help
+## ![image](https://github.com/user-attachments/assets/41328c63-e07f-49ce-93c1-a827319486e4)
+พิมค์คำสั่ง consolehelp
+## ![image](https://github.com/user-attachments/assets/1eda2c87-18dd-40c6-96de-affc124695ba)
+พิมค์คำสั่ง help consoletest
+## ![image](https://github.com/user-attachments/assets/9faad475-0aef-47f7-8ad7-284534a6cfe6)
+
+
