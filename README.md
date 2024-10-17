@@ -29,5 +29,15 @@
 ## ![image](https://github.com/user-attachments/assets/1eda2c87-18dd-40c6-96de-affc124695ba)
 พิมค์คำสั่ง help consoletest
 ## ![image](https://github.com/user-attachments/assets/9faad475-0aef-47f7-8ad7-284534a6cfe6)
+4.คัดลอก และ เพิ่มเนื้อหาตามนี้
+## ![image](https://github.com/user-attachments/assets/5191829d-0c65-4e44-af8b-ff1fc83f19a1)
+และ เพิ่ม ESP_ERROR_CHECK(esp_console_cmd_register(&led));
+### ![image](https://github.com/user-attachments/assets/c8a7e39f-4fcd-4f81-8706-4aed08efb83f)
+และ คัดลอก ฟังก์ชั่นด้านบนมาแก้ไข ดังนี้
+## ![image](https://github.com/user-attachments/assets/78b22f8a-5b6a-4336-a667-4405f293d3a4)
+build และ flash
+
+
+
 
 
