@@ -49,6 +49,12 @@ build และ flash และทดสอบพิมพ์ led 1 on และ
 ## ![image](https://github.com/user-attachments/assets/17973c82-5537-4d23-986c-802ec6f5feec)
 build และ flash และทดสอบพิมพ์ led 1 on และ led 1 off
 ## ![image](https://github.com/user-attachments/assets/f3de87ce-1a0d-4d7d-ad21-8168434a09e4)
+5.เพิ่ม gpio_set_direction(GPIO_NUM_16, GPIO_MODE_OUTPUT);
+## ![image](https://github.com/user-attachments/assets/1630ee0c-205e-4670-b46e-1783d1e08f28)
+และเพิ่ม gpio_set_level(led_no,led_status);  ตามภาพ
+## ![image](https://github.com/user-attachments/assets/3355cc92-53b0-42d2-af8c-129c9440437b)
+ทดสอบ พิมพ์คำสั่ง led 16 on ผลลัพธ์ledจะติด
+## ![image](https://github.com/user-attachments/assets/fc5cbe67-46a6-4026-853e-d4517b4b1828)
 
 
 
