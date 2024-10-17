@@ -23,11 +23,11 @@
 
 3.ทำการbuildแล้วก็flashลงบอร์ด
 ## ![image](https://github.com/user-attachments/assets/8a679d30-29cf-46bb-bebb-e1f3d0a950f9)
-พิมค์คำว่า help
+พิมพ์คำว่า help
 ## ![image](https://github.com/user-attachments/assets/41328c63-e07f-49ce-93c1-a827319486e4)
-พิมค์คำสั่ง consolehelp
+พิมพ์คำสั่ง consolehelp
 ## ![image](https://github.com/user-attachments/assets/1eda2c87-18dd-40c6-96de-affc124695ba)
-พิมค์คำสั่ง help consoletest
+พิมพ์คำสั่ง help consoletest
 ## ![image](https://github.com/user-attachments/assets/9faad475-0aef-47f7-8ad7-284534a6cfe6)
 4.คัดลอก และ เพิ่มเนื้อหาตามนี้
 ## ![image](https://github.com/user-attachments/assets/da113bd8-2dd7-42d0-ac0f-b1a66cf52097)
@@ -35,7 +35,16 @@
 ### ![image](https://github.com/user-attachments/assets/c8a7e39f-4fcd-4f81-8706-4aed08efb83f)
 และ คัดลอก ฟังก์ชั่นด้านบนมาแก้ไข ดังนี้
 ## ![image](https://github.com/user-attachments/assets/78b22f8a-5b6a-4336-a667-4405f293d3a4)
-build และ flash
+build และ flash และทดสอบพิมพ์ led 1 on
+## ![image](https://github.com/user-attachments/assets/43c0a605-7925-4bdd-aeeb-9f6c015a05b5)
+เพิ่มเนื้อหาดังนี้
+## ![image](https://github.com/user-attachments/assets/87e33054-6849-4091-83b4-4de78e2067be)
+build และ flash และทดสอบพิมพ์ led 1 on
+## ![image](https://github.com/user-attachments/assets/7305f0a4-1861-48ce-a9a5-45c41e5fcb4b)
+
+
+
+
 
 
 
