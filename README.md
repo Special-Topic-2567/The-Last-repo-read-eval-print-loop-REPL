@@ -62,7 +62,7 @@ build และ flash และทดสอบพิมพ์ led 1 on และ
 build และ flash และทดสอบพิมพ์ led 17 enable และ led 17 on
 ## ![image](https://github.com/user-attachments/assets/2a9c9b8e-1ed7-4b48-9dc0-c0f942d79570)
 
-
+ https://github.com/fulk2014/uart_repl-main   ไฟล์งาน
 
 
 
